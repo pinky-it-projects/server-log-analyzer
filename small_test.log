@@ -1,0 +1,8 @@
+2026-11-10 08:00:00 | INFO | User session started
+2026-11-10 08:01:13 | ERROR | E502 Bad gateway
+2026-11-10 08:02:26 | ERROR | E401 Unauthorized request
+2026-11-10 08:03:39 | WARNING | Disk usage above 80%
+2026-11-10 08:04:52 | ERROR | E502 Bad gateway
+2026-11-10 08:06:05 | INFO | Health check passed
+2026-11-10 08:07:18 | INFO | User session started
+2026-11-10 08:08:31 | INFO | Health check passed
